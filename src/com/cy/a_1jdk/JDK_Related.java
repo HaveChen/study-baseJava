@@ -1,12 +1,17 @@
 package com.cy.a_1jdk;
 
 /**
- * 
- * JDK安装配置说明
- * 
+ *
+ * JDK锟斤拷装锟斤拷锟斤拷说锟斤拷
+ *
  * @autho chenyou
- * @time 2018年12月10日 下午3:45:44
+ * @time 2018锟斤拷12锟斤拷10锟斤拷 锟斤拷锟斤拷3:45:44
  */
 public class JDK_Related {
+
+  public static void main(String[] args) {
+    System.out.println("this is vsCode");
+  }
+
 
 }
