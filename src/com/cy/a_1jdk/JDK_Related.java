@@ -9,4 +9,7 @@ package com.cy.a_1jdk;
  */
 public class JDK_Related {
 
+	// 1.jdk按照参考文件：../jdk安装及配置.txt
+	// 2.jdk和jre的区别：../jdk和jre区别.txt
+
 }
