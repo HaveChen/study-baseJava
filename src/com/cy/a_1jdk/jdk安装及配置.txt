@@ -14,3 +14,4 @@
 5.系统变量→新建 CLASSPATH 变量;
 	变量值填写   .;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar（注意最前面有一点）;
 	
+	
